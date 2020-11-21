@@ -22,7 +22,7 @@ include 'header.php';
 				                            "day"=>"10",
 				                            "month"=>"Jan",
 				                            "year"=>"2020",
-				                            "title"=>"Google inks pact for new 35-storey office","content"=>"That dominion stars lights dominion divide years for fourth have don't stars is tha the earth it first without heaven in place seed it second morning saying.",
+				                            "title"=>"title ","content"=>"description of the projet ",
 				                            "nbr_j"=>"03",
 				                            "nbr_c"=>"03","liking"=>"0"
 				                            ),
@@ -31,7 +31,7 @@ include 'header.php';
 				                            "day"=>"11",
 				                            "month"=>"Jan",
 				                            "year"=>"2020",
-				                            "title"=>"Google inks pact for new 35-storey office","content"=>"That dominion stars lights dominion divide years for fourth have don't stars is tha the earth it first without heaven in place seed it second morning saying.",
+				                            "title"=>"title ","content"=>"description of the projet",
 				                            "nbr_j"=>"03",
 				                            "nbr_c"=>"03","liking"=>"1"
 				                            ),
@@ -40,7 +40,7 @@ include 'header.php';
 				                            "day"=>"12",
 				                            "month"=>"Jan",
 				                            "year"=>"2020",
-				                            "title"=>"Google inks pact for new 35-storey office","content"=>"That dominion stars lights dominion divide years for fourth have don't stars is tha the earth it first without heaven in place seed it second morning saying.",
+				                            "title"=>"title ","content"=>"description of the projet",
 				                            "nbr_j"=>"03",
 				                            "nbr_c"=>"03","liking"=>"-1"
 				                            ),
@@ -49,7 +49,7 @@ include 'header.php';
 				                            "day"=>"13",
 				                            "month"=>"Jan",
 				                            "year"=>"2020",
-				                            "title"=>"Google inks pact for new 35-storey office","content"=>"That dominion stars lights dominion divide years for fourth have don't stars is tha the earth it first without heaven in place seed it second morning saying.",
+				                            "title"=>"title ","content"=>"description of the projet",
 				                            "nbr_j"=>"03",
 				                            "nbr_c"=>"03","liking"=>"1"
 				                            ),
@@ -58,7 +58,7 @@ include 'header.php';
 				                            "day"=>"14",
 				                            "month"=>"Jan",
 				                            "year"=>"2020",
-				                            "title"=>"Google inks pact for new 35-storey office","content"=>"That dominion stars lights dominion divide years for fourth have don't stars is tha the earth it first without heaven in place seed it second morning saying.",
+				                            "title"=>"title ","content"=>"description of the projet",
 				                            "nbr_j"=>"03",
 				                            "nbr_c"=>"03","liking"=>"-1"
 				                            ),
@@ -67,7 +67,7 @@ include 'header.php';
 				                            "day"=>"15",
 				                            "month"=>"Jan",
 				                            "year"=>"2020",
-				                            "title"=>"Google inks pact for new 35-storey office","content"=>"That dominion stars lights dominion divide years for fourth have don't stars is tha the earth it first without heaven in place seed it second morning saying.",
+				                            "title"=>"title ","content"=>"description of the projet",
 				                            "nbr_j"=>"03",
 				                            "nbr_c"=>"03","liking"=>"0"
 				                            ),
@@ -76,7 +76,7 @@ include 'header.php';
 				                            "day"=>"16",
 				                            "month"=>"Jan",
 				                            "year"=>"2020",
-				                            "title"=>"Google inks pact for new 35-storey office","content"=>"That dominion stars lights dominion divide years for fourth have don't stars is tha the earth it first without heaven in place seed it second morning saying.",
+				                            "title"=>"title ","content"=>"description of the projet",
 				                            "nbr_j"=>"03",
 				                            "nbr_c"=>"03","liking"=>"-1"
 				                            ),
