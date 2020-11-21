@@ -434,7 +434,7 @@ require 'PHPMailer-master/src/SMTP.php';
 		$mail->Port       = 587;
 		$mail->Host       = "smtp.gmail.com";
 		$mail->Username   = "hichamtrt70001@gmail.com";
-		$mail->Password   = "Hicham1237*@";
+		$mail->Password   = "********;
 		$mail->IsHTML(true);
 		$mail->AddAddress($email, "recipient-name");
 		$mail->SetFrom("Hichamoujari@dev-houjari.rf.gd", "dev-Houjari");
